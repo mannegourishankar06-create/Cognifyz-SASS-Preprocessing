@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+body .container {
+  text-align: center;
+  margin-top: 50px;
+}
+body .container h1 {
+  color: darkblue;
+}
+body .container button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
